@@ -1,0 +1,40 @@
+html {height:100%;}
+body {background:-moz-linear-gradient(90deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* ff3.6+ */
+background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0,147,217,1)), color-stop(100%, rgba(1,56,110,1))); /* safari4+,chrome */
+background:-webkit-linear-gradient(90deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* safari5.1+,chrome10+ */
+background:-o-linear-gradient(90deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* opera 11.10+ */
+background:-ms-linear-gradient(90deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* ie10+ */
+background:linear-gradient(0deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* w3c */
+filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#0093d9', endColorstr='#01386e',GradientType=0 ); /* ie6-9 */
+font-family:'Roboto', sans-serif;font-size:14px;font-weight:400;min-height:100% !important;margin-top:0px;color:#ffffff;}
+.topmargin {margin-top:90px;}
+.formpaddingtop {padding-top:30px}
+.btn-block {display:block;width:100%;}
+.btn-lg, .btn-group-lg>.btn {padding:10px 16px;font-size:18px;line-height:1.33;border-radius:6px;}
+.logo-card {width:125px;height:57px;margin:0 auto 10px;display:block;}
+.logo-type {width:100%;height:auto;margin:0 auto 10px;display:block;}
+.textinput-control_user {padding:12px 50px !important;color:#ffffff !important;font-family:'Roboto', sans-serif;font-size:16px;font-weight:600;background-color:#7fb4d3 !important;/*background-image: url("../images/email_icon.png");background-repeat:no-repeat;background-position:10px 15px;*/border-left:0px;border:2px solid #ffffff;border-radius:0 6px 6px 0 !important;height:50px;margin-bottom:20px !important;}
+.textinput-control_pass {padding:12px 10px !important;color:#ffffff !important;font-family:'Roboto', sans-serif;font-size:16px;font-weight:600;background-color:#7fb4d3 !important;/*background-image:url("../images/pass_icon.png");background-repeat:no-repeat;background-position:10px 10px;*/border:2px solid #ffffff;border-radius:0 6px 6px 0 !important;height:50px;margin-bottom:20px;border-left:0px;}
+.input-group-addon_new {padding:6px 12px;font-size:21px;font-weight:400;line-height:1;color:#ffffff;text-align:center;border:2px solid #ffffff !important;border-radius:5px;border-right:0px !important;background-color:#7fb4d3 !important;margin-bottom:20px;}
+.textboxes {/*width:100%;display:block;*/margin-bottom:10px;margin-top:10px;}
+.textinput-control_pass:focus { border:2px solid #ffffff !important;border-left:none !important;box-shadow:none !important;}
+.clear {clear:both;height:2px;}
+.mrtop {margin-top: 0px !important;}
+input::placeholder {color:#ffffff !important;}
+input::-moz-placeholder {color:#ffffff !important;}
+input:-ms-input-placeholder {color:#ffffff !important;}
+input:-moz-placeholder {color:#ffffff !important;}
+.loginbox {margin-bottom:20px;background-color:transparent !important;
+border:none transparent;border-radius:0px !important;}
+.remember {width:120px;float:left;}
+.forgetpassword {width:120px;float:right;}
+.checkbox label {color:#ffffff !important;font-size:14px !important;font-weight:400;}
+.forget {font-size:14px !important;font-weight:400;float:right;text-align:right;margin-top:6px;}
+.forget a {color:#afdcfe !important;}
+.login_btn {color:#003976 !important;background:#ffffff !important;border:2px solid ffffff;font-weight:600;}
+.login_btn:hover {color:#ffffff !important;background:#003976 !important;border:2px solid ffffff;font-weight:600;padding:10px 16px;}
+@media only screen and (max-width:768px) {
+body {margin-top:0px;}
+.topmargin {margin-top:30px;}
+}
+@media screen and (max-width: 900px) and (min-width: 600px) {}

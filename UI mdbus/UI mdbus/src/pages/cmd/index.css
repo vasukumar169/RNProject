@@ -1,0 +1,168 @@
+html, body {
+background: -moz-linear-gradient(90deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* ff3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(0,147,217,1)), color-stop(100%, rgba(1,56,110,1))); /* safari4+,chrome */
+background: -webkit-linear-gradient(90deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* safari5.1+,chrome10+ */
+background: -o-linear-gradient(90deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* opera 11.10+ */
+background: -ms-linear-gradient(90deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* ie10+ */
+background: linear-gradient(0deg, rgba(1,56,110,1) 0%, rgba(0,147,217,1) 100%); /* w3c */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0093d9', endColorstr='#01386e',GradientType=0 ); /* ie6-9 */font-family:'Roboto', sans-serif;font-size:14px;font-weight:400;min-height:100% !important;margin-top:-1px;color:#2c2c2c;}
+img {max-width:100%;}
+h1, h2, h3, h4, h5, h2 {font-size: 36px;}
+p {font-size:15px;color:#6c6e7e;line-height:30px;font-family:"Roboto", sans-serif;}
+a:hover, a:focus {text-decoration:none;outline:none;color:#0b1033;}
+li, ul {margin:0;padding:0;}
+.fix {overflow:hidden;}
+.spad {padding-top:75px;padding-bottom:35px;}
+.clear{clear:both;height:1px;}
+.bdrbtm{border-bottom:1px solid #4eb2e3;margin-top:-3px;}
+.header-section {position: absolute;top:-1 !important;left:0;width:100%;z-index:999;padding:0 50px;-webkit-transition:all 0.4s ease 0s;-o-transition:all 0.4s ease 0s;transition:all 0.4s ease 0s;}
+.header-section .logo {display:inline-block;float:left;padding-top:7px;}
+.header-section .logo img {width:auto;-webkit-transition:all 0.4s ease 0s;-o-transition:all 0.4s ease 0s;transition:all 0.4s ease 0s;}
+.header-section .menu-list {list-style:none;float:right;}
+.header-section .menu-list li {display:inline;}
+.header-section .menu-list li a {display:inline-block;padding:25px 15px;margin-right:15px;color:#ffffff;position:relative;font-family:"Roboto", sans-serif;font-size:16px;letter-spacing:0.09em;-webkit-transition:all 0.4s ease 0s;-o-transition:all 0.4s ease 0s;transition:all 0.4s ease 0s;}
+.header-section .menu-list li a:hover,
+.header-section .menu-list li a.active {background:#ffffff;color:#003876;border-bottom:2px solid #000000;}
+.header-section .menu-list li:last-child a {margin-right:0;}
+.header-section .menu-list li.active a {background:#ffffff;color:#003876;border-bottom:2px solid #000000;font-weight:500;}
+.header-section .menu-list .current a:after {width:10px;margin-left:-5px;}
+.overlay {position:absolute;width:100%;height:100%;left:0;top:0;z-index:3;background-repeat:no-repeat;background-size:cover;}
+.lab-card {position:relative;margin-top:50px;padding:0 0 30px 0;text-align:center;background:#ffffff;-webkit-transition:all 0.4s ease 0s;-o-transition:all 0.4s ease 0s;transition:all 0.4s ease 0s;border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;-ms-border-radius:8px;}
+.inputsection {width:90%;display:block;}
+.inputsection h4 {font-family:"Roboto", sans-serif;text-align:center;font-size:16px;letter-spacing:0.09em;font-weight:500;}
+.inputsection input {font-family:"Roboto", sans-serif;text-align:center;font-size:16px;letter-spacing:0.09em;font-weight:500;}
+.logoutbtn {color:#000000;background-color:transparent;/*border-color:#ccc;*/border:1px solid #000000;margin-top:17px;font-size:16px;letter-spacing:0.09em;font-weight:500;}
+.logoutbtn:hover {background-color:#003876 !important;border:1px solid #ffffff !important;font-size:16px;color:#ffffff !important;}
+/*----------------------------------
+header element
+------------------------------------*/
+.service {margin-bottom:0px;}
+.textareainput {width: 94%;text-align:left;vertical-align:top;margin-left: 13px;}
+/*------------------------
+Footer section
+--------------------------*/
+.footer-section {width:100%;background:#bfbbba;text-align:left;padding:15px;}
+.footer-section span {color:#303030;font-size:14px;padding:18px 18px;}
+.footer-section span ul {font-size:14px;float:right;width:auto;}
+.footer-section span ul li {font-size:14px;display:inline-block;list-style-type:none;}
+.footer-section span ul li a {font-size:14px;margin-left:8px;margin-right:8px;color:#303030;}
+.footer-section span ul li a:hover {color:#1a73d2;}
+.rowmargin {margin-right:4px !important;margin-left:4px !important;}
+.boxheader {color:#003976 !important;font-size:18px;font-weight:500;background:#d1d3d4;text-align:left;padding:16px; -webkit-box-shadow:0px 2px 1px #a3a3a3;-moz-box-shadow:0px 2px 1px #a3a3a3;box-shadow:0px 2px 1px #a3a3a3;border-top-left-radius:8px;border-top-right-radius:8px;-moz-border-top-left-radius:8px;-moz-border-top-right-radius:8px;-webkit-border-top-left-radius:8px;-webkit-border-top-right-radius:8px;-ms-border-top-left-radius:8px;-ms-border-top-right-radius:8px;margin-top:0px;}
+.ptagpading {text-align:left;}
+.mrtop {margin-top:30px;}
+.mrtop button {padding:12px 40px;font-size:16px;font-weight:500;float:left;margin-left:13px;}
+/* ===========================
+Responsive
+==============================*/
+/* Tablet :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.lab-card {margin-bottom:0px;}
+.header-section {
+    position: absolute;
+    top: -1 !important;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    padding: 0 10px;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+.lab-card {
+    position: relative;
+    margin-top: 80px;
+    padding: 0 0 30px 0;
+    text-align: center;
+    background: #ffffff;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -ms-border-radius: 8px;
+}
+.header-section .menu-list {
+    list-style: none;
+    float: left;
+    margin-top: 75px;
+}
+.header-section .menu-list li a {
+    display: inline-block;
+    padding: 20px 7px;
+    margin-right: 5px;
+    color: #ffffff;
+    position: relative;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.09em;
+    -webkit-transition: all 0.4s ease 0s;
+    -o-transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0s;
+}
+.logoutbtn {
+    color: #000000;
+    background-color: transparent;
+    /* border-color: #ccc; */
+    border: 1px solid #000000;
+    margin-top: 17px;
+    font-size: 16px;
+    letter-spacing: 0.09em;
+    font-weight: 500;
+    margin-left: 30px;
+}
+}
+.navbar-brand {float:left;height:0px !important;padding:0 !important;font-size:18px;line-height:20px;}
+.navbar-default {background-color:transparent !important;border-color:transparent !important;}
+.navbar {position:relative;min-height:0px !important;margin-bottom:0px !important;border:1px solid transparent;}
+.showall {padding-left:15px;padding-right:15px;}
+/* Large Mobile :480px. */
+@media only screen and (max-width: 767px) {
+	.spad {padding-top:95px;padding-bottom:30px;}
+	.mrtop {margin-top:18px;}
+.mrtop button {padding:12px 54px;font-size:16px;font-weight:500;float:left;}
+	.footer-section span {
+    width: 100%;
+	display:block;
+   text-align:center;
+}
+.footer-section span {width:100%;display:block;text-align:center;}
+.footer-section span ul {font-size:14px;float:right;width:100%;display:block;margin-top:-10px;}
+.footer-section span ul li a {font-size:14px;margin-left:6px;margin-right:5px;color:#303030;}
+.table {margin-left:2px;}
+.rowmargin {margin-right:-13px !important;margin-left:-13px !important;}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {border-color:transparent !important;border:1px solid transparent !important;}
+.showall {padding-left:0px !important;padding-right:0px !important;}
+.header-section {padding:0 0px !important;}
+.navbar {background:#003876 !important;padding-bottom:10px;}
+.header-section .logo {padding-top:0px;padding-bottom:0px;}
+.header-section .menu-list {/*display:none;border-top:1px solid #ddd;*/float:none;clear:both;}
+.header-section .menu-list li {display:inline;}
+.header-section .menu-list li a {display:block;padding:10px;margin-right:0;}
+.header-section .menu-list li a:after {left:0%;}
+.header-section .menu-list li a:hover:after {width:10px;margin-left:10px;}
+.header-section .menu-list .current a:after {margin-left:10px;}
+.responsive {display:block;color:#333;font-size:34px;position:absolute;right:30px;padding-top:10px;}
+.lab-card {margin-bottom:40px;}
+.lab-card {position: relative;margin-top:10px !important;padding:0;text-align:center;background:#f5faf8;-webkit-box-shadow:0 0 8px rgba(74, 74, 74, 0.1);box-shadow:0 0 8px rgba(74, 74, 74, 0.1);-webkit-transition:all 0.4s ease 0s;-o-transition:all 0.4s ease 0s;transition:all 0.4s ease 0s;border-radius:8px;-moz-border-radius:8px;-webkit-border-radius:8px;-ms-border-radius:8px;}
+}
+/* small mobile :320px. */
+@media only screen and (max-width: 479px) {
+.header-section {padding:0 0px;}
+.mrtop button {
+    padding: 12px 30px !important;
+    font-size: 16px;
+    font-weight: 500;
+    float: left;
+	margin-left:15px;
+}
+.textareainput {
+    width: 90%;
+    text-align: left;
+    vertical-align: top;
+    margin-left: 13px;
+}
+.inputsection {width:100%;display:block;}
+.spad {padding-top:95px;padding-bottom:0px;}
+}
