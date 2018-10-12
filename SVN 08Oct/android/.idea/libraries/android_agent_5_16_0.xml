@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="android-agent-5.16.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.16.0/7484c4ecc8eb0ab4728994b2b1baa9c11619e2d5/android-agent-5.16.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.16.0/32859b21aa2d3af0d9fe0d6b931c23c2a68b8c64/android-agent-5.16.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

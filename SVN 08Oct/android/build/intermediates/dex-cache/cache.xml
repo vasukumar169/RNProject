@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\b80a9b619242c4502afc77072df0583cfe15e726.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68874c3c03a3c9354b349668d4ff69cd80e71ade">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\b80a9b619242c4502afc77072df0583cfe15e726_d41c076a8725f2606f964e574e8e18b4fbd9e368\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\b36e314a1e6a97ba556482c3970020d0b75f469e.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7951046ef943f2a56bd707fdcf95cdd3a41adda2">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\b36e314a1e6a97ba556482c3970020d0b75f469e_fa8e232cdb2790c138cfeed7e3306c3e44401d61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\c9bea0482aa254f8436bd35845a57309301c0eec.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03682999037a2c5bef85ec8058be33a4219c15c1">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\c9bea0482aa254f8436bd35845a57309301c0eec_06d5406f06bfa1e8341e3fc46d1b3f478229c086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\7f7bec525a95eb5b76caa0fd8a0d2e428c432318.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f07f28c5e5a05a88fe8bd259d58eb79be702d95">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\7f7bec525a95eb5b76caa0fd8a0d2e428c432318_c0d212e26fdc0acaad974ef0be730c6951fefa4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\7ab4eab26319a2f860ba97174448dd130cb0276e.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f08440b3ad0954de1186b8816887308b15e33e0a">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\7ab4eab26319a2f860ba97174448dd130cb0276e_21621221f7f6e45669060b1493cf5e59680112a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\325366a3b4399c1b29d47dac570aa12636a0375b.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a49d686417ad2be843058cbbba602669d3807c49">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\325366a3b4399c1b29d47dac570aa12636a0375b_db5ffc1d423c0775f746cc7b36801688a523ffd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\dd7cd560791b828e98c091aff60d5eb36f0e400d.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d849fc328a15ed372a64dd622dd52f54f7012cf2">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\dd7cd560791b828e98c091aff60d5eb36f0e400d_7be3d8024d3f81f9f9450f5f02bf95c4df110d7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\e81280b459a457f41c5d267d0a721ec9271597c3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74f0634d0acb74b7f342c9e227be4aea8b2497b1">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\e81280b459a457f41c5d267d0a721ec9271597c3_2381a92996226091aead94aac4931239a803764e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\8a4ab0082fc47c4adf7043fb5cc4fa5553905982.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c6af7186446232323d041a10dde9d5a289f7cbf">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\8a4ab0082fc47c4adf7043fb5cc4fa5553905982_e82fc27b51f3f6f612c035855838b2cbfa9b1644\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\3dbc6e00104a2475fad4eac37c676f66bac6c92c.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9616cd55db54094af3111d995f93ae8c68724ae">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\3dbc6e00104a2475fad4eac37c676f66bac6c92c_da79725b66520c7eac3f5dcdc825fd24101610f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\78ca9a3ac02b259776d40152bc63aa5e9dece271.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a7ca39230f854a95e68e42e662d6a0c30c30ab8">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\78ca9a3ac02b259776d40152bc63aa5e9dece271_47ac991654c1d56a6262418998f2a68f107ab532\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\b4371f0c28bfb19cf7cd4d7abc9c27051478e5e9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6c080a5edaeef9528d8b4d0b62a7dd1088036364">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\b4371f0c28bfb19cf7cd4d7abc9c27051478e5e9_a07f4f32a87b42b650632b21fa000cd35014bb45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\c935d5b2abc117296797b3e2e6f05a131de4e9e2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="929f37ada7851e45a7f34adcfc6422e6cfb92dd5">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\c935d5b2abc117296797b3e2e6f05a131de4e9e2_ad171cf0e3784358b3c077cb6a5d6d908cbc5b78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\9ff08802ce917cad81729ccb8ec6a28b98e1a818.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5af759dc0a38de8380122c86f64ae78e913268">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\9ff08802ce917cad81729ccb8ec6a28b98e1a818_206a0c7fa2319a5d42b6226538c5854124da8cde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="154a5db31aed8f85db1a3d745fc2fbc8d1a4615d">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_673680b74f8707fbfa6cf68776c5ec57eef9bcfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\2d4d087867c22aa5fda202c703c389e666eff116.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="17b807c8ae1ef627d13910750586ce80e372f5d4">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\2d4d087867c22aa5fda202c703c389e666eff116_d213b3c0db651a7e46827acc305bab7338f6e52b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\28d91c5cb4070275f9de4c4ad05e36501772a2e7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="305420d0aa1e3b6be169d35358294ca67d6568af">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\28d91c5cb4070275f9de4c4ad05e36501772a2e7_b557749c84300d8b8aae23cf46c453b155fbab5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\9121c70d1e3eeb8333cf834acc3321a26c847ee2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="36ddda2ea5165682319626b7463e08312b4301db">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\9121c70d1e3eeb8333cf834acc3321a26c847ee2_439a6657851fb938ba8fbdb0e7da1867f216f583\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\bd781070bc52fa303e4c11a157eeddfd38e9a439.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="452bd2b00012183aa154efa831dd6e0dcd0edb4e">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\bd781070bc52fa303e4c11a157eeddfd38e9a439_4ed20dcfd60a556b63c04d4c5b4e89989e0c806f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\71872a9d758fc2cc23cbebbff1f0e2d875b7eeed.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc23e372604ff426d49754f2f4c0c339c88dd41">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\71872a9d758fc2cc23cbebbff1f0e2d875b7eeed_6f35afd2e3ed258cc7f519307cb8311d52af5459\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6c3a008fd687a36137e095f10fbebdc0b5dea371\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\975e6031c15c4bc3ec5e9a8878864f5cd35cc6eb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="903fec8cf8cfe5dd9a15338e4e57c5f3049139d9">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\975e6031c15c4bc3ec5e9a8878864f5cd35cc6eb_c36978e0cde99fed3ac999b4a3350e327363ad67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\1e4b4f2849750b2eddd3c02da6f26b5142b3970c.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b71a9fb7f8cfd29e84d27bb53b11b67c2dddb7b6">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\1e4b4f2849750b2eddd3c02da6f26b5142b3970c_8017ed05208b2abb6e602685be802dcc2091b5ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\8cd60b02424b5307b4c5c290c896197864e6fa6c.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcdf7834d36bf384c5d917505a46e5ea12d14fbd">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\8cd60b02424b5307b4c5c290c896197864e6fa6c_d023befa7e93f528fd1027017c918af22a57e119\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\c86cfda22d80479d15100eeccb8d9ad20da08b02.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae64ccc059ea322ba97e2ad980c101d64fce2172">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\c86cfda22d80479d15100eeccb8d9ad20da08b02_941644ff6cb49b7947c095e817abca5c692170ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\46017718a1a1549282c768e9a443fed0a7ed164b.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b66976799c489d941cb3703f8ff5c970079eff2">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\46017718a1a1549282c768e9a443fed0a7ed164b_f4a1c8e5593140a85be02e5770da3a0a5f3cd78e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\6c802da631313fb17f8044f6f9fce8d5701aa9e9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5209604ff530b53260d16d669c0ecf7e1b4b8">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\6c802da631313fb17f8044f6f9fce8d5701aa9e9_66fb17074fd3ef30df8d97b8f8d1cd98490c5baa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\67242e26c16554b326e6ce6c4bf31c9bc2714861.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d2da3b51d9279c6b27123c770589bb7e05c99fea">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\67242e26c16554b326e6ce6c4bf31c9bc2714861_2bad8c19b9527d24844c69338cd7b0f66883d24d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\fa72a70151ccc0800bbc52727659c856b461f72f.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b26e62683b33c9dc1e1da1f5040b09e405a9c548">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\fa72a70151ccc0800bbc52727659c856b461f72f_558286dca70884c58986bd577a2dccc731690a2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\a55621fa40ae219d87e045d409885ade71dd2922.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4299ef61ffb862d9510bc52a0fe09999695c7f9">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\a55621fa40ae219d87e045d409885ade71dd2922_b898e54a8359f5e1a5388ff7b4cfb6ea0b1da62f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\5a23bc10b08b3c190aba1911dd8e3931879f22ca.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fd2cb0fc7865d922e1dc3e700d7527c48e7f51c">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\5a23bc10b08b3c190aba1911dd8e3931879f22ca_a005faf23504d956849bac6197c30ca93fa1cc35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\b6dc2c60d8b390a51add24bb4f65a8d6c44c5900.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="157348dfe05091b06bf37dec9c358887858238dd">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\b6dc2c60d8b390a51add24bb4f65a8d6c44c5900_386bd232fd6befdfd8a878f524b184c59cc8554b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\cf464433008938b198e706982f781b8f570d48ee.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cffe577ef6ff448b4431ef987007e95924b5cf7b">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\cf464433008938b198e706982f781b8f570d48ee_e90cc60848c5d956c77e0930b243e0eaf36f2c03\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\d1504ebb164b6a46677dccbc7c8afb3ffa3c669b.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29b50c253d6b96a66d5147412ea0da8c8db65ff5">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\d1504ebb164b6a46677dccbc7c8afb3ffa3c669b_d776095c3598006f62c5d480aa0d54460affa199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\85d5c0de365535843d43187cf562f90b3cdbd952.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a1a0e80f709ee7b25c91147a4c98219bf7596ec">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\85d5c0de365535843d43187cf562f90b3cdbd952_b6514acb542a8de462ec8e02b46fd967e6aaff46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\5c97cc2ae100cbebc92f1c1226f6c03219bb4b73.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8441d815d36d95e4adf192b8e2cc688c85983801">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\5c97cc2ae100cbebc92f1c1226f6c03219bb4b73_69569f44681bb0908d6f5ca3eb4ea52f967510dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\0540d3344b87fd720b7fef268784382d2512c675.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="492acc574b73fd62e2a526d16dd2b96879354bb1">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\0540d3344b87fd720b7fef268784382d2512c675_3deb5a9b0ac2c5ff164a0eeec17cff98c17faa1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\c489e5d0bf8e32a35e321701325372fe6eb64ee6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ee00b485605a4800620d4c4632c8b18dd3ae2c0">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\c489e5d0bf8e32a35e321701325372fe6eb64ee6_c07f690c667c722e12647262c61b3bf1b28109ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\newrelicTransform\debug\jars\1\10\c6d16f771d337d1e281ae94704ba6fa5780c6f31.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="08fbdfc6be7b79b40dad9a030191e36e940b351d">
+        <dex dex="D:\new\SVN new latest\trunk\android\app\build\intermediates\transforms\dex\debug\folders\1000\10\c6d16f771d337d1e281ae94704ba6fa5780c6f31_39e5cb34d6144a5bee0e19342e8c0ecf6dfb3499\classes.dex" />
+    </item>
+
+</items>
